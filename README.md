@@ -1,5 +1,5 @@
 # Facade_Pattern_Demo
-Facade is a structural design pattern that provides a simplified (but limited) interface to a complex system of classes, library or framework.
+Facade is a structural design pattern that provides a interface to a complex sub-system.
 
 Usage examples: The Facade pattern is commonly used in apps written in C#. It’s especially handy when working with complex libraries and APIs.
 
